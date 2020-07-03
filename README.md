@@ -17,15 +17,11 @@ Here are some ideas to get you started:
 
 #### What did I work on yesterday?
 
-- Helped users with their Monitoring
-
-![graph](https://github.com/ericmustin/dd_gif_maker/blob/master/example_timeseries_viz.gif)
+- Helped users with their Monitoring <img src="https://github.com/ericmustin/dd_gif_maker/blob/master/example_timeseries_viz.gif" width="400px" align="center">
 
 #### What am I working on today?
 
-- Application Performance Monitoring
-
-![service map](https://datadog-docs.imgix.net/images/tracing/index/ServiceMapInspect.089bf7111d7ffffb1fb91a3fae2d2c06.gif)
+- Application Performance Monitoring <img src="https://datadog-docs.imgix.net/images/tracing/index/ServiceMapInspect.089bf7111d7ffffb1fb91a3fae2d2c06.gif" width="400px" align="center">
 
 #### Blockers?
 
