@@ -1,4 +1,4 @@
-### Hi there 👋
+### Eric's Standup
 
 <!--
 **ericmustin/ericmustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### What did I work on yesterday?
+
+- Helped users with their Monitoring
+
+![graph](https://github.com/ericmustin/dd_gif_maker/blob/master/example_timeseries_viz.gif)
+
+#### What am I working on today?
+
+- Application Performance Monitoring
+
+![service map](https://datadog-docs.imgix.net/images/tracing/index/ServiceMapInspect.089bf7111d7ffffb1fb91a3fae2d2c06.gif)
+
+#### Blockers?
+
+> ["Can entropy ever be reversed?"](https://www.multivax.com/last_question.html)
