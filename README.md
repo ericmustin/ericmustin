@@ -15,7 +15,7 @@
         </tr>
         <tr>
             <td><b>Blockers?</b></td>
-            <td><a target="_blank" href=https://www.multivax.com/last_question.html>"Can entropy ever be reversed?"</td>
+            <td><a target="_blank" href=https://gist.github.com/ericmustin/19deaf2aa5f9924d0c7ca37bae02ddc4>"Can entropy ever be reversed?"</td>
         </tr>
     </tbody>
 </table>
